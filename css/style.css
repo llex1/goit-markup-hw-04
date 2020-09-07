@@ -336,8 +336,6 @@ ul {
 .clients-list-link:hover .clients-list-link__icon {fill: var(--main-color);}
 .clients-list-link__icon {
     fill: var(--social-icon-color);
-    width: 100%;
-    height: 100%;
 }
 
 /* ======== END CLIENTS ========  */
